@@ -1,0 +1,6 @@
+{
+  "name": "Everlend BTC",
+  "symbol": "evBTC",
+  "description": "Everlend collateral token for BTC",
+  "image": "https://everlend.github.io/icons/btc.png"
+}

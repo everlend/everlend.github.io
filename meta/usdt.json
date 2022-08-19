@@ -1,0 +1,6 @@
+{
+  "name": "Everlend USDT",
+  "symbol": "evUSDT",
+  "description": "Everlend collateral token for USDT",
+  "image": "https://everlend.github.io/icons/usdt.png"
+}
